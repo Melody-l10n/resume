@@ -1,59 +1,57 @@
 # [Melody Liu]
 **Senior Localization Technical Program Manager | PMP® | LQA Lead**
 
-> 16 years of expertise in driving global product delivery, specializing in Software Internationalization (I18n), LQA frameworks, and strategic Program Management.
+## 🎯 Professional Summary
+Accomplished Localization Expert and Program Manager with **16 years of experience** driving end-to-end localization excellence. Unique blend of deep linguistic expertise (EN-ZH) and advanced project management skills using **Agile/Kanban**. Demonstrated success in architecting localization workflows, overseeing large-scale LSP partnerships, and implementing data-driven quality standards (**DQF**). A strategic problem-solver skilled in transforming fragmented communication into streamlined processes and building scalable terminology infrastructures for global organizations.
 
 ---
 
-### 🚀 Professional Summary
-Senior Technical Program Manager with a background in **Electronic Engineering (M.S.)** and **PMP certification**. Proven track record in scaling localization infrastructures for global enterprises, reducing operational costs by **44%**, and managing an annual throughput of **9 million words**. Expert in bridging the gap between engineering and linguistics through Agile methodologies and automation.
+## 🛠 Core Toolstack
+### **Management & Governance**
+* **Frameworks:** PMP®, Agile/Scrum, Kanban, DQF (Dynamic Quality Framework)
+* **Platforms:** JIRA, Trello, Notion, Microsoft Teams (Information Synthesis)
+* **Strategic:** Vendor Management (LSP), QBR, Resource Procurement, Cost Optimization
+
+### **L10n Engineering & Quality**
+* **Infrastructure:** TermWeb (Setup & Admin), DITA CMS, i18n Assessment
+* **CAT & QA:** Phrase (Memsource), Trados, MemoQ, LQA Tools
+* **Engineering:** GUI Testing, Functional Validation, Adobe FrameMaker (DTP)
+
+### **Technical & Design**
+* **Tools:** Markdown, CSS, Regular Expressions (Regex), GitHub, Perforce
+* **Visualization:** PowerBI, Figma, Adobe Creative Suite
 
 ---
 
-### 🛠 Core Toolstack
-- **Project Management:** PMP®, Agile/Scrum, JIRA, Trello, Notion.
-- **L10n Engineering:** GitHub, Perforce, DITA CMS, I18n Assessment, GUI Testing.
-- **CAT & Quality:** Phrase (Memsource), Trados, MemoQ, LQA Frameworks, Terminology Management.
-- **Data & Design:** PowerBI, Figma, Adobe FrameMaker, Markdown, CSS.
+## 💼 Professional Experience
+### **[Your Company Name]** | *2008 – 2024*
+
+#### **Localization Discipline Lead & Vendor Manager** | *2022 – 2024*
+* **Strategy & Agile:** Orchestrated cross-functional delivery via **JIRA/Kanban**, defining user stories and sprints to ensure high-velocity, transparent progress.
+* **Information Hub:** Acted as a central "Information Filter" for **Teams** channels, synthesizing fragmented technical queries into structured, actionable broadcasts.
+* **Infrastructure (TermWeb):** Spearheaded the ground-up development of **TermWeb**, the company’s first centralized terminology platform, ensuring global brand consistency.
+* **Procurement & QBR:** Managed end-to-end **LSP lifecycle**, from rigorous qualification to contract negotiation and chairing **Quarterly Business Reviews (QBR)**.
+
+#### **Quality Expert / LQA Lead** | *2021 – 2022*
+* **Data-Driven Quality:** Established a robust linguistic metric system based on the **DQF**, transitioning LQA from subjective to data-driven.
+* **Auditing & Optimization:** Conducted audits via third-party **LQA tools** to identify root causes and implement corrective actions, significantly elevating quality scores.
+
+#### **Senior Technical Translator & Engineer** | *2008 – 2021*
+* **Technical Expert:** Leveraged an **M.S. in Electronic Engineering** to deliver high-precision translations for complex hardware/software documentation (EN-ZH).
+* **Process Innovation:** Introduced **electronic sign-off processes**, slashing project turnaround times from 14 days to **3–5 days**.
+* **L10n Engineering:** Managed full-cycle **DTP (Adobe FrameMaker)** and conducted **GUI/functional testing** to resolve internationalization (i18n) bottlenecks.
 
 ---
 
-### 📈 Key Achievements
-- **Cost Efficiency:** Achieved **44% reduction** in quarterly localization costs via process re-engineering and AI-tool integration.
-- **Quality Excellence:** Elevated average Linguistic Quality (LQ) scores from **90 to 98/100**; improved underperforming languages from 60 to 95.
-- **Operational Scalability:** Managed 10+ languages with a **50% YoY growth** in localization output.
-- **Automation:** Co-developed DITA CMS automation tools, reducing manual labor by **90%**.
+## 🎓 Education & Certifications
+* **PMP® (Project Management Professional)** | Project Management Institute
+* **M.S. in Electronic Engineering** | [University Name]
+* **B.S. in [Your Major]** | [University Name]
 
 ---
 
-### 💼 Professional Experience
+## 🌐 Languages
+* **Chinese (Simplified):** Native
+* **English:** Professional Working Proficiency
 
-#### **LQA Discipline Lead / Localization Program Manager** | *Nov 2018 – Sep 2024*
-- Orchestrated end-to-end localization for software platforms and multimedia in 10+ languages.
-- Partnered with R&D to resolve I18n bottlenecks (hard-coding, UI truncations) and aligned L10n roadmaps with global release cycles.
-- Led digital transformation using Yammer and WeChat to drive internal employee engagement and brand awareness.
 
-#### **Senior Technical Translator & Mentor** | *Oct 2012 – Oct 2018*
-- Automated technical documentation workflows, significantly accelerating time-to-market.
-- Mentored junior staff and developed onboarding playbooks, reducing training time by 30%.
-- Conducted full-spectrum GUI and functional testing for software products.
-
-#### **Technical Translator & DTP Specialist** | *Jan 2008 – Oct 2012*
-- Introduced e-signoff processes, cutting turnaround time from 2 weeks to 3-5 days.
-- Managed complex hardware documentation and DTP using Adobe FrameMaker.
-
----
-
-### 🎓 Education & Certifications
-- **M.S. in Electronic Engineering** | Jilin University
-- **PMP® (Project Management Professional)** | PMI
-
----
-
-### 📬 Contact & Links
-
-- **Location:** [Shanghai.China]
-- **Languages:** English (Professional/Bilingual), Chinese (Native)
-
----
-*Generated by [Your Name] - 2026*
