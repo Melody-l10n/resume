@@ -45,8 +45,8 @@ Accomplished Localization Expert and Program Manager with **16 years of experien
 
 ## 🎓 Education & Certifications
 * **PMP® (Project Management Professional)** | Project Management Institute
-* **M.S. in Electronic Engineering** | [University Name]
-* **B.S. in [Your Major]** | [University Name]
+* **M.S. in Electronic Engineering** | [Jilin University]
+* **B.S. in [Electronic Engineering]** | [Jilin University]
 
 ---
 
