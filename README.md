@@ -2,7 +2,7 @@
 **Senior Localization Technical Program Manager | PMP® | LQA Lead**
 
 ## 🎯 Professional Summary
-Accomplished Localization Expert and Program Manager with **16 years of experience** driving end-to-end localization excellence. Unique blend of deep linguistic expertise (EN-ZH) and advanced project management skills using **Agile/Kanban**. Demonstrated success in architecting localization workflows, overseeing large-scale LSP partnerships, and implementing data-driven quality standards (**DQF**). A strategic problem-solver skilled in transforming fragmented communication into streamlined processes and building scalable terminology infrastructures for global organizations.
+Accomplished Localization Expert and Program Manager with **16 years of experience** driving end-to-end localization excellence. Unique blend of deep linguistic expertise (EN-ZH) and advanced project management skills using **Agile/Kanban**. Demonstrated success in architecting localization workflows, overseeing large-scale LSP partnerships, and implementing data-driven quality standards (**DQF**). Localization Infrastructure & Automation: Extensive experience in steering the technical evolution of localization workflows, transitioning from manual UI string extraction (JSON/XML) to seamless API-based integrations. Deep understanding of data structures and automated pipelines to ensure data integrity and process efficiency. A strategic problem-solver skilled in transforming fragmented communication into streamlined processes and building scalable terminology infrastructures for global organizations.
 
 ---
 
@@ -28,6 +28,8 @@ Accomplished Localization Expert and Program Manager with **16 years of experien
 
 #### **Localization Discipline Lead & Vendor Manager** | *2022 – 2024*
 * **Strategy & Agile:** Orchestrated cross-functional delivery via **JIRA/Kanban**, defining user stories and sprints to ensure high-velocity, transparent progress.
+* **Cross-Functional Workflow Orchestration:** Collaborated with external technical partners (e.g., Phrase) to transition localization workflows from legacy JSON/UI string exports to automated API-based integrations.
+* **Infrastructure Oversight:** Coordinated with internal development teams to manage localized assets via GitHub, ensuring a seamless data flow between engineering repositories and translation environments.
 * **Information Hub:** Acted as a central "Information Filter" for **Teams** channels, synthesizing fragmented technical queries into structured, actionable broadcasts.
 * **Infrastructure (TermWeb):** Spearheaded the ground-up development of **TermWeb**, the company’s first centralized terminology platform, ensuring global brand consistency.
 * **Procurement & QBR:** Managed end-to-end **LSP lifecycle**, from rigorous qualification to contract negotiation and chairing **Quarterly Business Reviews (QBR)**.
