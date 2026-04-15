@@ -24,7 +24,7 @@ Accomplished Localization Expert and Program Manager with **16 years of experien
 ---
 
 ## 💼 Professional Experience
-### **[Your Company Name]** | *2008 – 2024*
+### **[National Instruments]** | *2008 – 2024*
 
 #### **Localization Discipline Lead & Vendor Manager** | *2022 – 2024*
 * **Strategy & Agile:** Orchestrated cross-functional delivery via **JIRA/Kanban**, defining user stories and sprints to ensure high-velocity, transparent progress.
